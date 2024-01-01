@@ -1,1 +1,1 @@
-# https://baartu.github.io/basaran/
+# bartu basaran
